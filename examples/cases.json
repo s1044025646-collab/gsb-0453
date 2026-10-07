@@ -1,0 +1,8 @@
+[
+  { "mode": "forward", "tas": 100, "heading": 0, "windSpeed": 60, "windFrom": 90, "distance": 100 },
+  { "mode": "inverse", "tas": 100, "track": 0, "windSpeed": 60, "windFrom": 90 },
+  { "mode": "inverse", "tas": 100, "track": 0, "windSpeed": 150, "windFrom": 180 },
+  { "mode": "inverse", "tas": 50, "track": 0, "windSpeed": 80, "windFrom": 90 },
+  { "mode": "forward", "tas": 100, "heading": 0, "windSpeed": 100, "windFrom": 0 },
+  { "mode": "inverse", "tas": -1, "track": 0, "windSpeed": 0, "windFrom": 0 }
+]
